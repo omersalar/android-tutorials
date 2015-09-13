@@ -2,6 +2,8 @@
 Android Tutorials
 =================
 
+[![Join the chat at https://gitter.im/omersalar/android-tutorials](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/omersalar/android-tutorials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository hosts the source code for some (hopefully) useful
 Android tutorials. The [official website][Android Tutorials] hosts
 an easy to browse version of the tutorials. The ant-script that is part of
